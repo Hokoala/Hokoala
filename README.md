@@ -52,7 +52,7 @@
 - 🎨 **Portfolio personnel** — présentation de mes projets & compétences  
 - 🕹️ **Jeu Unity** — collecte de points dans un environnement naturel  
 - 🧩 **Applications Vue.js** — projets académiques & CRUD  
-- 🐳 **Déploiement Docker + Nginx** — hébergement local de projets
+- 🐳 **Déploiement Docker + Apache2** — hébergement local de projets
 
 ➡️ *Plus de projets dans mes repositories 👇*
 
@@ -60,8 +60,16 @@
 
 ## 📊 Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hokoala&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokoala&layout=compact&theme=radical)
+## 📊 GitHub en un coup d’œil
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hokoala&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hokoala&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hokoala&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
