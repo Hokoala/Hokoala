@@ -16,22 +16,34 @@
 
 ---
 
+
 ## 🛠️ Technologies & outils
 
-### 💻 Front-end
+### 💻 Développement web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### 🎨 Design & UX
+---
+
+### 🎨 Design & création
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign)
 
-### ⚙️ Autres
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+---
+
+### 🧩 CMS / 3D / Outils
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
