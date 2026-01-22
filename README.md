@@ -58,8 +58,6 @@
 
 ---
 
-## 📊 Stats GitHub
-
 ## 📊 GitHub en un coup d’œil
 
 <p align="center">
@@ -68,6 +66,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hokoala&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hokoala&layout=compact&theme=radical&hide_border=true" />
 </p>
 
