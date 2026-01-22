@@ -61,7 +61,7 @@
 ## 📊 GitHub en un coup d’œil
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hokoala&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokoala&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
