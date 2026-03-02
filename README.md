@@ -3,8 +3,6 @@
 🎓 Étudiant en développement web & UX/UI  
 💻 Front-end developer (React • Vue.js)  
 🎨 Passionné par le design, l’expérience utilisateur et les projets créatifs  
-🚀 À la recherche d’un stage de 18 semaines à partir de mars en Full stack 
-
 ---
 
 ## 🧩 À propos de moi
